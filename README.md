@@ -26,4 +26,5 @@ Lessons include (not in any particular order):<b/>
 - Implementing the multiply instruction manually
 - Implementing the division and modulo instructions manually
 - A visualization of the Fibonacci sequence
+- Tic Tac Toe game using a multidimensional array (in a seperate repository in my profile!)
 
