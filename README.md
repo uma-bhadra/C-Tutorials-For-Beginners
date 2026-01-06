@@ -1,13 +1,13 @@
 # C-Tutorials-For-Beginners
-****IN PROGRESS**** continuously being updated 
+This is a collection of programs designed to teach basic topics/concepts in C to beginners for free.<b/> 
 
-This is a collection of programs designed to teach basic topics/concepts in C to beginners for free. 
+****IN PROGRESS**** continuously being updated<b/>
 
-Feel free to use this code for learning purposes. 
+Feel free to use this code for learning purposes.<b/>
 
-I recommend running your desired program/lesson in Visual Studio (VS) Code, experimenting with it, and reading the comments to understand new concepts. Feel free to reach out to me with any conceptual questions. 
+I recommend running your desired program/lesson in Visual Studio (VS) Code, experimenting with it, and reading the comments to understand new concepts. Feel free to reach out to me with any conceptual questions.<b/>
 
-Lessons include (not in any particular order):
+Lessons include (not in any particular order):<b/>
 
 - Arrays (adding numbers in arrays, adding 10 to every 3rd element in an array, only adding odd numbers in an array, reversing the order of an array)
 - Inserting into a sorted array
