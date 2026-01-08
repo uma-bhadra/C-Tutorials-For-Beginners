@@ -16,6 +16,7 @@ Lessons include (not in any particular order):<b/>
 - Binary search (in a sorted array)
 - Search for an element (unsorted array)
 - Bubble sort
+- Palindrome testing for a sequence of numbers 
 - Swapping elements
 - For loops
 - While loops
